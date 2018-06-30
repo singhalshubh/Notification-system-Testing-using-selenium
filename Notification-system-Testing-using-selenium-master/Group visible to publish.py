@@ -29,10 +29,7 @@ class signup(unittest.TestCase):
 		driver.find_element_by_xpath('//a [@href="/article-view/8/"]').click()
 		driver.find_element_by_xpath('//a [@href="/article-edit/8/"]').click()
 		driver.find_element_by_id('publish').click()
-		driver.get(config('url') + 'communities/')
-		driver.find_element_by_xpath('//a [@href="/community-view/2/"]').click()
-		driver.find_element_by_xpath('//a [@href="/group-view/1/"]').click()
-		driver.find_element_by_xpath('//a [@href="/group-feed/1/"]').click()
+		driver.get(config('url') + 'articles/')
 		driver.get(config('url') + 'logout/')
 		for i in range(1,4):
 			self.login(i,driver)
