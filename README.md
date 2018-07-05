@@ -12,7 +12,7 @@ Collaborative community testing<br/>
 2.) Order of testing is mentioned in the report of Notification system Report for system.<br/>
 <br/>
 3.) Changes in id<br/>
-    The bold <left-side> needs to be searched and insert id = “<right-side>”  <br/>
+    The "left-side" needs to be searched and insert id = “right-side”  <br/>
       Unsubscribe - Unsubscribe<br/>
       Yes - Yes<br/>
       Save Changes - savechanges<br/>
