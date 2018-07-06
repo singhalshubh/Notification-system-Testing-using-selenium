@@ -1,7 +1,7 @@
 # Notification-system-Testing-using-selenium<br/>
 
 1.) .env file : <br/>
-      PROJECT_PORT = 7000 (Not used anywhere.....)<br/>
+      PROJECT_PORT = 7000 <br/>
       NOTIFICATION_USER = shubh,admin,raghav,ty<br/>
       NOTIFICATION_PASSWORD = shubh<br/>
       IP_ADDRESS= https://172.17.0.1:7000<br/>
@@ -38,5 +38,3 @@ Article 12 is visible.<br/><br/>
 Group : <br/>
 The group formed is only 1.<br/>
 8,10,11 article is in the group.<br/>
-
-5.)
