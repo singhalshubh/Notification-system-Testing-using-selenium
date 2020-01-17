@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/singhalshubh/notification-system-testing-using-selenium/badge)](https://www.codefactor.io/repository/github/singhalshubh/notification-system-testing-using-selenium)
+
 # Notification-system-Testing-using-selenium<br/>
 
 1.) .env file : <br/>
@@ -20,7 +22,6 @@
       Update - update<br/>
       Remove - remove<br/>
       <br/>
-     The link for the comparison is : https://github.com/singhalshubh/hacker-1/pull/1/files<br/>
      
 4.) Roles:  <br/>
 There are 4 users in the system : shubh,admin,raghav,ty.<br/>
